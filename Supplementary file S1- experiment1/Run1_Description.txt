@@ -1,0 +1,4 @@
+predict Ker_L/W, Ker_W/T, Ker_L/T from L/W	W/T	L/T
+
+
+where L/W is the average_L/average_W

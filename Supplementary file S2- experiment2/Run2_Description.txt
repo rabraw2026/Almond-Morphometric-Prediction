@@ -1,0 +1,3 @@
+predict FruitMass from L/W, W/T, and L/T
+
+where L/W is the average_L/average_W
